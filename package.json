@@ -1,0 +1,29 @@
+{
+  "name": "postcss-momocss",
+  "version": "0.0.0",
+  "description": "Transform CSS with PostCSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | tap-spec"
+  },
+  "keywords": [
+    "css",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "tap-spec": "^2.2.2",
+    "tape": "^3.5.0"
+  },
+  "homepage": "https://github.com/sassy/postcss-momocss",
+  "author": {
+    "name": "Satoshi Watanabe",
+    "email": "sassy.watanabe@gmail.com",
+    "url": "https://github.com/sassy/momocss"
+  },
+  "repository": "sassy/postcss-momocss",
+  "dependencies": {
+    "postcss": "^4.1.11"
+  }
+}
