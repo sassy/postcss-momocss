@@ -40,12 +40,13 @@ h1 {
 h1{color:red}
 ```
 
+<!--
 ## API
 
 ### momocss([options])
 
 #### options
-<!--
+
 ##### foo
 
 Type: `boolean`
