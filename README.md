@@ -5,16 +5,26 @@
 
 momoclo name represent color value.
 
-
-
-|name|value|
-|--|--|
-|kanako|red|
-|shiori|yellow|
-|ayaka|pink|
-|momoka|green|
-|reni|purple|
-
+<table>
+<tr>
+    <th>member</th><th>value</th>
+</tr>
+<tr>
+    <td>kanako</td><td>red</td>
+</tr>
+<tr>
+    <td>shiori</td><td>yellow</td>
+</tr>
+<tr>
+    <td>ayaka</td><td>pink</td>
+</tr>
+<tr>
+    <td>momoka</td><td>green</td>
+</tr>
+<tr>
+    <td>reni</td><td>purple</td>
+</tr>
+</table>
 
 ## Install
 
