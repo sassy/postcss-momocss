@@ -10,18 +10,23 @@ module.exports = postcss.plugin('postcss-momocss', function (opts) {
         css.eachDecl(function transform(decl) {
             switch (decl.value) {
                 case "kanako":
+                case "momota":
                     decl.value = "red";
                     break;
                 case "shiori":
+                case "tamai":
                     decl.value = "yellow";
                     break;
                 case "ayaka":
+                case "sasaki":
                     decl.value = "pink";
                     break;
                 case "momoka":
+                case "ariyasu":
                     decl.value = "green";
                     break;
                 case "reni":
+                case "takagi":
                     decl.value = "purple";
                     break;
             }
