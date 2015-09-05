@@ -3,7 +3,8 @@
 
 > Transform CSS with PostCSS.
 
-momoclo name represent color value.
+The name of Momoiro Clover Z members are representing the color.
+following:
 
 <table>
 <tr>
