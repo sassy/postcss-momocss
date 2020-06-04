@@ -20,9 +20,6 @@ following:
     <td>ayaka</td><td>pink</td>
 </tr>
 <tr>
-    <td>momoka</td><td>green</td>
-</tr>
-<tr>
     <td>reni</td><td>purple</td>
 </tr>
 </table>
