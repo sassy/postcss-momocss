@@ -22,12 +22,6 @@ var tests = [{
     options: {foo: true}
 },
 {
-    message: 'should transform momoka',
-    fixture: 'h1 { color: momoka }',
-    expected: 'h1 { color: green }',
-    options: {foo: true}
-},
-{
     message: 'should transform reni',
     fixture: 'h1 { color: reni }',
     expected: 'h1 { color: purple }',
