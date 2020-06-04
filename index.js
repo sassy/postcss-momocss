@@ -7,7 +7,7 @@ module.exports = postcss.plugin('postcss-momocss', function (opts) {
 
     return function (css) {
         // Plugin logic goes here
-        css.eachDecl(function transform(decl) {
+        css.walkDecls(function transform(decl) {
             switch (decl.value) {
                 case "kanako":
                 case "momota":
@@ -20,10 +20,6 @@ module.exports = postcss.plugin('postcss-momocss', function (opts) {
                 case "ayaka":
                 case "sasaki":
                     decl.value = "pink";
-                    break;
-                case "momoka":
-                case "ariyasu":
-                    decl.value = "green";
                     break;
                 case "reni":
                 case "takagi":
