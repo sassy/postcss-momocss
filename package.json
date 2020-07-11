@@ -13,8 +13,8 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "tap-spec": "^5.0.0",
-    "tape": "^5.0.1"
+    "tap-spec": "5.0.0",
+    "tape": "5.0.1"
   },
   "homepage": "https://github.com/sassy/postcss-momocss",
   "author": {
