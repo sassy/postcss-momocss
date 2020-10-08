@@ -24,6 +24,6 @@
   },
   "repository": "sassy/postcss-momocss",
   "dependencies": {
-    "postcss": "^7.0.32"
+    "postcss": "^7.0.34"
   }
 }
